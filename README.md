@@ -64,5 +64,16 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Zifty is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://zifty.com/
+Zifty provides a delivery and logistics platform serving over 2,500 cities across 35 U.S. states. Their API enables businesses to place delivery requests, monitor status updates, manage multiple routes, automate dispatching, and receive real‑time notifications, simplifying integration with existing systems. Zifty aims to deliver local expertise wherever needed, offering a SaaS solution for on‑demand delivery services.
+
+**Areas:** Company · Delivery · Logistics · API · SaaS
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.zifty.com/zifty/)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/zifty/](https://apis.io/providers/zifty/).
